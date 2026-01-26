@@ -1,3 +1,4 @@
+watch Demo Video https://youtu.be/exETdwKl_XY?si=OQxeses9ueRS3JEx
 NJ Blogs is a storytelling platform where blogs can be turned into narrated video content using AI voice. It helps creators publish stories faster and reach wider audience.
 NJ Blogs is a productivity application that provides users with a wide range of topics, including personal development, health and wellness, travel, technology, food and cooking, finance, and more. The app is ad-free, free for everyone, and designed to inspire and inform users with curated content.
 
@@ -22,6 +23,3 @@ Open the app and start exploring the content.
 nj blogs source code (1).zip
 Open the NJ Blogs app.
 Select a category to explore topics of interest.
-Use the intuitive UI to navigate through articles, tips, and guides.
-Demo Video
-Watch the app in action: NJ Blogs Demo video https://youtu.be/sajQQYjSAeY?si=rtHvSSqoSHIkXVeA
