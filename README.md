@@ -4,8 +4,7 @@ NJ Blogs App 🎙️🧠
 ​Transforming Digital Content into Human-Centric Audio Experiences
 ​🌟 Overview
 ​NJ Blogs App is more than just a text-to-speech tool. Built by a self-taught developer with a background in Psychology, this application leverages Google Gemini and ElevenLabs to bridge the gap between cold digital text and warm human narration.
-​During this hackathon, this project reached a milestone of 120 clones and 80 unique cloners, demonstrating its utility and appeal to the developer community.
-​🚀 Key Features
+Key Features
 ​Psychology-Driven Narration: Unlike standard readers, our logic focuses on emotional resonance and natural pacing.
 ​Gemini Intelligence: Uses Google Gemini 1.5 Pro to analyze blog sentiment and summarize content for optimal listening.
 ​High-Fidelity Voice: Integrated with ElevenLabs for industry-leading, life-like voice synthesis.
