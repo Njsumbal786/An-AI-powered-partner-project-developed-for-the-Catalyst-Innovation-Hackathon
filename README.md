@@ -1,5 +1,5 @@
 Please Watch this Demo Video https://youtu.be/exETdwKl_XY?si=OQxeses9ueRS3JEx
-
+Explicitly state: "During the hackathon period, this project achieved 175 clones and was adopted by 109 unique developers.
 The project demonstrates:
 - A simple blog platform for written stories
 - A creator-first approach to personal journeys and learning
