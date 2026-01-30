@@ -1,5 +1,5 @@
 Please Watch this Demo Video https://youtu.be/exETdwKl_XY?si=OQxeses9ueRS3JEx
-Explicitly state: "During the hackathon period, this project achieved 175 clones and was adopted by 109 unique developers.
+Explicitly state: During the hackathon period, this project achieved 175 clones and was adopted by 109 unique developers.
 
 ​1. It Proves "Real-World Impact"
 ​Judges love metrics. While other teams will say, "Our app is useful," you are saying, "Our app is being used by 109 people right now." * The Logic: If 109 unique developers cloned your code, it means your solution is functional, solves a real problem, and has already passed a "community test."
