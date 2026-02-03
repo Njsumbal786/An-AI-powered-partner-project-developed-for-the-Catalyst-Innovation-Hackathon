@@ -1,4 +1,12 @@
 Updated ReadMe
+The Psychology of AI: Moving Beyond "Robotic" Interaction
+​Traditional AI is often "emotionally flat," functioning as a data processor rather than a partner. This project bridges the gap between Cognitive Psychology and Affective Computing to create a more human-centric AI experience.
+​Future Roadmap: Affective Voice & Narratives
+​In the next phase of development, we are moving from "Robot" to "Relatable" by implementing psychological frameworks into the AI's vocal output:
+​Emotional Prosody: Moving beyond monotone text-to-speech. By applying Vocal Prosody modeling, the AI will adjust its pitch and speed to match the emotional context of the stories it narrates.
+​Self-Storytelling (Narrative Identity): We believe AI should narrate "self-stories" to build rapport. Using Social Cognition principles, the AI uses personal-style narratives to reduce user anxiety and increase trust.
+​The Empathy Loop: By integrating Sentiment Analysis with Vocal Synthesis, the AI will "mirror" the user's emotional state—providing a calming tone during stress or an energetic tone during success.
+​"The goal is not to give a machine a soul, but to give it the psychological intelligence to understand yours."
 Hackathon Finalist Statement
 ​"I am thrilled to announce that my project, An AI-powered partner, has reached the final stages of evaluation! The engagement over the last 14 days has been incredible, with over 1,300 views and 130+ unique developers cloning the repository to explore the codebase.
 ​Key Project Highlights:
