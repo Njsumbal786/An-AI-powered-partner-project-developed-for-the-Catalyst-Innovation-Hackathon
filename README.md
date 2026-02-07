@@ -8,7 +8,7 @@ Key Highlights
 - Built for hackathons and rapid innovation.
   My demo video link
 https://youtu.be/exETdwKl_XY?si=kBR6SnVP2pA-O3ap
-My website link 
+  My website link 
 https://www.getnjportfolio.com/
 My play store app link 
 https://play.google.com/store/apps/details?id=com.NJBlogs.app
