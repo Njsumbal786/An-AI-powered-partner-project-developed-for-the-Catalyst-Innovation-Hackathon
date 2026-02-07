@@ -1,4 +1,16 @@
-Updated ReadMe
+Catalyst AI – Hackathon Project
+Catalyst AI is an intelligent assistant designed to help developers and teams analyze project performance, engagement, and growth using AI-driven insights.  
+It simplifies decision-making by turning raw data into clear, actionable suggestions.
+Key Highlights
+- AI-powered analysis of project metrics
+- Easy integration with GitHub data
+- Fast and lightweight design
+- Built for hackathons and rapid innovation
+https://youtu.be/exETdwKl_XY?si=kBR6SnVP2pA-O3ap
+My website link 
+https://www.getnjportfolio.com/
+My play store app link 
+https://play.google.com/store/apps/details?id=com.NJBlogs.app
 The Psychology of AI: Moving Beyond "Robotic" Interaction
 ​Traditional AI is often "emotionally flat," functioning as a data processor rather than a partner. This project bridges the gap between Cognitive Psychology and Affective Computing to create a more human-centric AI experience.
 ​Future Roadmap: Affective Voice & Narratives
