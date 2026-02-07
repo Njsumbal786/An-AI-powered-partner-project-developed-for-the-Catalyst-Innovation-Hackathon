@@ -5,7 +5,8 @@ Key Highlights
 - AI-powered analysis of project metrics
 - Easy integration with GitHub data
 - Fast and lightweight design
-- Built for hackathons and rapid innovation
+- Built for hackathons and rapid innovation.
+  My demo video link
 https://youtu.be/exETdwKl_XY?si=kBR6SnVP2pA-O3ap
 My website link 
 https://www.getnjportfolio.com/
