@@ -1,3 +1,20 @@
+Professional Portfolio & Identity
+Lead Developer: Noor Jehan Sumble (NJ Sumbal)  
+Citizenship:Canada 🇨🇦  
+Verified Email:njgilani@gmail.com  
+
+🔗 The NJ Developer Ecosystem
+To assist the Catalyst AI Hackathon judges with verification, all project assets are linked under my unified professional identity:
+
+Official Portfolio: [getnjportfolio.com](https://getnjportfolio.com)
+Google Play Store:[NJ Blogs (com.NJBlogs.app)](https://play.google.com/store/apps/details?id=com.NJBlogs.app)
+YouTube Channel: [NJ All-in-One Channel (@nj-zk9vr)](https://youtube.com/@nj-zk9vr)
+Identity Verification:The legal name Noor Jehan Sumble,the professional name NJ Sumbal and the email njgilani@gmail.com are consistent across all platforms above. This confirms 100% original ownership of the submitted code, AI integration, and media assets.
+
+
+
+
+
 Catalyst AI – Hackathon Project
 Catalyst AI is an intelligent assistant designed to help developers and teams analyze project performance, engagement, and growth using AI-driven insights.  
 It simplifies decision-making by turning raw data into clear, actionable suggestions.
